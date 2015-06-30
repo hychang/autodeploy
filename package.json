@@ -7,9 +7,6 @@
     "github-webhook-handler": "^0.5.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "johnny",
   "license": "MIT"
 }
